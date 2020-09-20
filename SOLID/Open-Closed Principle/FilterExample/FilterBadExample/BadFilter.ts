@@ -3,7 +3,7 @@ import Product from "./Product";
 export default class BadFilter {
   /**
    *  This example break the Open Closed Pinciple
-   *  because it needed change the class to add more
+   *  because it needs change the class to add more
    *  filter options.
    */
 
