@@ -1,2 +1,2 @@
-# Design Patterns in Javascript
-Excercises developed on Design Patterns in JavaScript course
+# Design Patterns in Typescript
+Excercises developed on Design Patterns in Typescript course
