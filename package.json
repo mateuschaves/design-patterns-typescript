@@ -7,7 +7,8 @@
   "license": "MIT",
   "private": false,
   "scripts": {
-    "filterBadExample": "node ./dist/FilterBadExample/index.js"
+    "filterBadExample": "node ./dist/FilterBadExample/index.js",
+    "filterGoodExample": "node ./dist/FilterGoodExample/index.js"
   },
   "devDependencies": {
     "typescript": "^4.0.3"
